@@ -4,12 +4,8 @@
     <a href="http://linktr.ee/e7dge">
       Edigelson Nascimento
     </a>
-      <img align="center" src="./images/hello.gif" height="45px" alt="Hello" />
+      <img align="center" src="./hello.gif" height="45px" alt="Hello" />
   </h2>
-
-  <p align="center">
-    <a href="./translation/README-pt_BR.md">Portuguese (pt-BR)</a>
-  </p>
 
   <p align="left"> 
    <br>
