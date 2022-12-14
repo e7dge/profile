@@ -1,8 +1,8 @@
 <div style="display: inline_block">
 <samp>
   <h2 align="center">Hi there, I'm 
-    <a href="http://silasrodrigues.me">
-      Silas Rodrigues
+    <a href="http://linktr.ee/e7dge">
+      Edigelson Nascimento
     </a>
       <img align="center" src="./images/hello.gif" height="45px" alt="Hello" />
   </h2>
@@ -13,13 +13,13 @@
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Systems Analysis and Development,</strong> and I'm looking for an opportunity as a <strong>Front End Developer.</strong><br>
+    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>Front End Developer.</strong><br>
   </p>
   <ul align="left">
-    <li>🏝 I'm from São Paulo, Brazil.</li>
-    <li>💜 I've a great passion for Front End Development and UI Motion.</li>
+    <li>🏝 I'm from Bahia, Brazil.</li>
+    <li>💜 I've a great passion for Front End Development and DataScience.</li>
     <li>🌱 Enhancing my overall Front and Back end web development abilities.</li>
-    <li>💻 I'm currently a PHP Junior Help Desk Analyst.</li>
+    <li>💻 I'm currently a Front Junior Help Desk Analyst.</li>
     <li> 💡 In addition to trying to learn from those with more expertise than me, I attempt to assist others who are just learning to program whenever I can.</li>
     <li>📚 I'm a native Portuguese speaker and I'm improving my English.</li>
     <li>🎮 In my free time I like to play League of Legends, play soccer and read tech news.</li>
@@ -82,64 +82,23 @@
 
 <br>
 
-<div style="display: inline_block">
-  <samp>
-  <h2 align="left">GitHub Stats</h2>
-  <p align="left">These stats are based on 50+ repos, some of them are <strong>private repos</strong></p>
-<br>
-  <table width="50%">
-    <tr>
-      <td align="center">
-        <details open>
-          <summary>Streak and contributions</summary>
-          <hr>
-          <a href="https://github.com/SilasRodrigues19">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=SilasRodrigues19&theme=dracula" alt="Most Used Languages" />
-          </a>
-        </details>
-      </td>
-      <td align="center">
-        <details open>
-          <summary>Stats</summary>
-          <hr>
-          <a href="https://github.com/SilasRodrigues19">
-            <img src="https://github-readme-stats.vercel.app/api?username=SilasRodrigues19&show_icons=true&theme=dracula&icon_color=ff79c6&include_all_commits=true&count_private=true" alt="Readme Stats" />
-          </a>
-        </details>
-      </td>
-    </tr>
-  </table>
-    <hr>
-</div>
-
 <br>
 <div style="display: inline_block">
   <samp>
   <h2 align="left">Get in touch
   </h2>
-  <a href="https://wa.me/5519992576970" target="_blank">
+  <a href="https://wa.me/5571989210407" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   
-  <a href="mailto:silasrodrigues.fatec@gmail.com?subject=Contato GitHub" target="_blank">
+  <a href="mailto:contato@edigelsonnascimento.com.br?subject=Contato GitHub" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
-  <a href="https://linkedin.com/in/silasrodrigues19/" target="_blank">
+  <a href="https://linkedin.com/in/edigelson-nascimento/" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 <br><br>
 
-<div style="display: inline_block">
-  <samp>
-  <h2 align="left">Follow me
-  </h2>
-    <a href="https://twitter.com/intent/user?screen_name=Jinuye1" target="_blank">
-    <img align="left" src="https://img.shields.io/twitter/follow/Jinuye1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white" alt="Twitter">
-  </a>
-
-  <a href="https://www.github.com/SilasRodrigues19" target="_blank">
-    <img src="https://img.shields.io/github/followers/SilasRodrigues19?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1c1c&logoColor=white">
-  </a>
 </div>
