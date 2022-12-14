@@ -71,7 +71,7 @@
 <br>
 
 <div class="display-inline-block">
-  <a href="https://silasrodrigues.me/resume.pdf" target="_blank">
+  <a href="https://portfólio.edigeldonnascimento.com.br" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Resume-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Resume">
   </a>
 </div>
