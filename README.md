@@ -32,7 +32,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="55" alt="html5 logo" title="HTML 5" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="55" alt="css3 logo" title="CSS 3" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="55" alt="bootstrap logo" title="Bootstrap" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="55" alt="tailwind logo" title="Tailwind CSS" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="55" alt="material ui logo" title="Material UI"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="55" alt="sass logo" title="SASS" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="30" width="55" alt="stylus logo" title="Stylus" />
