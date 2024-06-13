@@ -9,7 +9,7 @@
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>FullStacks Developer.</strong><br>
+    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>FullStacks Jr Developer.</strong><br>
   </p>
   <ul align="left">
     <li>🏝 I'm from Bahia, Brazil.</li>
