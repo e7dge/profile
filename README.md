@@ -9,7 +9,7 @@
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>Front End Developer.</strong><br>
+    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>FullStacks Developer.</strong><br>
   </p>
   <ul align="left">
     <li>🏝 I'm from Bahia, Brazil.</li>
@@ -71,7 +71,7 @@
 <br>
 
 <div class="display-inline-block">
-  <a href="https://portfolio.edigelsonnascimento.com.br" target="_blank">
+  <a href="https://portfolio.e7dge.github.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Resume-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Resume">
   </a>
 </div>
@@ -87,7 +87,7 @@
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   
-  <a href="mailto:contato@edigelsonnascimento.com.br?subject=Contato GitHub" target="_blank">
+  <a href="mailto: edigelsonnascimento@hotmail.com?subject=Contato GitHub" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
