@@ -86,7 +86,7 @@
     <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   
-  <a href="mailto: dev@e7dge.xyz?subject=Contato GitHub" target="_blank">
+  <a href="mailto: contato@e7dge.xyz?subject=Contato GitHub" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
