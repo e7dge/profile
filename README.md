@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <samp>
   <h2 align="center">Hi there, I'm 
-    <a href="https://edigelson-nascimento.github.io/portfolio">
+    <a href="https://edigelson-nascimento.github.io">
       Edigelson Nascimento
     </a>
       <img align="center" src="./hello.gif" height="45px" alt="Hello" />
