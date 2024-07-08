@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <samp>
   <h2 align="center">Hi there, I'm 
-    <a href="https://edigelson-nascimento.github.io">
+    <a href="https://edigelson-nascimento.github.io/portfolio">
       Edigelson Nascimento
     </a>
       <img align="center" src="./hello.gif" height="45px" alt="Hello" />
@@ -59,7 +59,7 @@
 <br>
 
 <div class="display-inline-block">
-  <a href="https://edigelson-nascimento.github.io" target="_blank">
+  <a href="https://edigelson-nascimento.github.io/portfolio" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Resume-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Resume">
   </a>
 </div>
