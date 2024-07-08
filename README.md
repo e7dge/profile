@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <samp>
   <h2 align="center">Hi there, I'm 
-    <a href="http://edigelson-nascimento.github.io/portfolio">
+    <a href="https://edigelson-nascimento.github.io/portfolio">
       Edigelson Nascimento
     </a>
       <img align="center" src="./hello.gif" height="45px" alt="Hello" />
@@ -33,7 +33,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="55" alt="css3 logo" title="CSS 3" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="55" alt="react logo" title="React JS" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="30" width="55" alt="mongodb logo" title="MongoDB" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="55" alt="mysql logo" title="SQL" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" width="55" alt="oracle logo" title="Oracle" />
   </p>
