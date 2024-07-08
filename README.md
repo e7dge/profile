@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 <samp>
   <h2 align="center">Hi there, I'm 
-    <a href="http://linktr.ee/e7dge">
+    <a href="http://edigelson-nascimento.github.io">
       Edigelson Nascimento
     </a>
       <img align="center" src="./hello.gif" height="45px" alt="Hello" />
@@ -9,7 +9,7 @@
 
   <p align="left"> 
    <br>
-    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>FullStacks Jr Developer.</strong><br>
+    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>Front-End Jr Developer.</strong><br>
   </p>
   <ul align="left">
     <li>🏝 I'm from Bahia, Brazil.</li>
@@ -82,11 +82,7 @@
   <samp>
   <h2 align="left">Get in touch
   </h2>
-  <a href="https://wa.me/5571989210407" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Whats-1c1c1c?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  
-  <a href="mailto: contato@e7dge.xyz?subject=Contato GitHub" target="_blank">
+  <a href="mailto: edigelsonnascimento@hotmail.com?subject=Contato GitHub" target="_blank">
     <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
