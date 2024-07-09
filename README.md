@@ -11,8 +11,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces intuitivas e func
 - **Outras Competências**: Marketing Digital, Redes Sociais
 
 ## 📚 Educação
-
-- **Ensino Médio Completo**
+ 
 - **Cursos Complementares**:
   - Marketing Digital e Redes Sociais - IFRS (Maio de 2024)
   - Programa Oracle Next Education F2 T3 - Oracle & Alura (Janeiro de 2023)
