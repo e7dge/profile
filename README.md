@@ -1,84 +1,32 @@
-<div style="display: inline_block">
-<samp>
-  <h2 align="center">Hi there, I'm 
-    <a href="https://edigelson-nascimento.github.io/portfolio">
-      Edigelson Nascimento
-    </a>
-      <img align="center" src="./hello.gif" height="45px" alt="Hello" />
-  </h2>
+# 👋 Olá! Eu sou Edigelson Nascimento
 
-  <p align="left"> 
-   <br>
-    I've a degree in <strong>Development,</strong> and I'm looking for an opportunity as a <strong>Front-End Jr Developer.</strong><br>
-  </p>
-  <ul align="left">
-    <li>🏝 I'm from Bahia, Brazil.</li>
-    <li>💜 I've a great passion for Front End Development and DataScience.</li>
-    <li>🌱 Enhancing my overall Front and Back end web development abilities.</li>
-    <li>💻 I'm currently a Front Junior Help Desk Analyst.</li>
-    <li> 💡 In addition to trying to learn from those with more expertise than me, I attempt to assist others who are just learning to program whenever I can.</li>
-    <li>📚 I'm a native Portuguese speaker and I'm improving my English.</li>
-    <li>🎮 In my free time I like to play League of Legends, play soccer and read tech news.</li>
-  </ul>
-</div>
-<div style="display: inline_block">
-<br>
-  <p align="left" vertical-align="center">
-  <samp>
-  🔌 Main Technologies
-  </p>
-  <br>
-  <p align="left">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="55" alt="html5 logo" title="HTML 5" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="55" alt="css3 logo" title="CSS 3" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="55" alt="javascript logo" title="JavaScript" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="55" alt="react logo" title="React JS" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="55" alt="mysql logo" title="SQL" />
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="55" width="55" alt="oracle logo" title="Oracle" />
-  </p>
-</div>
+## 🚀 Sobre Mim
 
-<div style="display: inline_block">
-<br>
-  <samp>
-  <p align="left" vertical-align="center">
-  🔧 Main Tools
-  </p>
-  <br>
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="55" alt="visual studio code logo" title="Visual Studio Code" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="55" alt="figma logo" title="Figma" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="55" alt="canva logo" title="Canva" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="55" alt="filezilla logo" title="FileZilla" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="55" alt="git logo" title="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="55" alt="linux logo" title="Linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"  height="30" width="55" alt="NPM - Node Package Managar" title="NPM" />
-  </p>
-</div>
+Sou um desenvolvedor front-end apaixonado por criar interfaces intuitivas e funcionais. Tenho formação em programação e desenvolvimento web, com habilidades em HTML, CSS, JavaScript, Git e GitHub. Meu objetivo é sempre aprimorar minhas habilidades e contribuir para projetos desafiadores e inovadores.
 
-<br>
+## 💻 Habilidades
 
-<div class="display-inline-block">
-  <a href="https://edigelson-nascimento.github.io/portfolio" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Resume-ccc?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=1c1c1c" alt="Resume">
-  </a>
-</div>
+- **Linguagens de Programação**: HTML, CSS, JavaScript
+- **Ferramentas e Tecnologias**: Git, GitHub, VS Code
+- **Outras Competências**: Marketing Digital, Redes Sociais
 
-<br>
+## 📚 Educação
 
-<br>
-<div style="display: inline_block">
-  <samp>
-  <h2 align="left">Get in touch
-  </h2>
-  <a href="mailto: edigelsonnascimento@hotmail.com?subject=Contato GitHub" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-Mail-1c1c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+- **Ensino Médio Completo**
+- **Cursos Complementares**:
+  - Marketing Digital e Redes Sociais - IFRS (Maio de 2024)
+  - Programa Oracle Next Education F2 T3 - Oracle & Alura (Janeiro de 2023)
 
-  <a href="https://linkedin.com/in/edigelson-nascimento/" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/-LinkedIn-1c1c1c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-<br><br>
+## 🌟 Projetos em Destaque
 
-</div>
+- [**Meu Portfólio**](https://edigelson-nascimento.github.io/portfolio): Meu site pessoal onde apresento meus projetos e habilidades.
+
+## 📫 Como me Encontrar
+
+- **E-mail**: edigelsonnascimento@hotmail.com
+- **LinkedIn**: [linkedin.com/in/edigelsonnascimento](https://www.linkedin.com/in/edigelsonnascimento)
+- **Instagram**: [@edigelson.nascimento](https://www.instagram.com/edigelson.nascimento)
+
+## 📝 Licença
+
+Este repositório está licenciado sob a [Licença MIT](LICENSE).
